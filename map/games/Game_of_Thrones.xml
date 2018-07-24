@@ -249,676 +249,677 @@
     <territory name="Through of Lys" water="true"/>
     <territory name="Valyria"/>
     <territory name="Sea of Myrth" water="true"/>
-    <!-- Territory Connections -->
-    <connection t1="Hearts Home" t2="Longbow Hall"/>
-    <connection t1="Hearts Home" t2="Iron Oaks"/>
-    <connection t1="Hearts Home" t2="Strongsong"/>
-    <connection t1="Hearts Home" t2="The Eyrie"/>
-    <connection t1="Hearts Home" t2="Snakewood"/>
-    <connection t1="Hearts Home" t2="North Narrow Sea"/>
-    <connection t1="Gulltown" t2="Iron Oaks"/>
-    <connection t1="Gulltown" t2="Longbow Rapids"/>
-    <connection t1="Bloody Gate" t2="Redfort"/>
-    <connection t1="Bloody Gate" t2="Strongsong"/>
-    <connection t1="Bloody Gate" t2="Mountains of the Moon"/>
-    <connection t1="Bloody Gate" t2="The Eyrie"/>
-    <connection t1="Redfort" t2="Iron Oaks"/>
-    <connection t1="Redfort" t2="Mountains of the Moon"/>
-    <connection t1="Redfort" t2="The Eyrie"/>
-    <connection t1="Redfort" t2="Wickenden"/>
-    <connection t1="Longbow Hall" t2="Iron Oaks"/>
-    <connection t1="Longbow Hall" t2="Longbow Rapids"/>
-    <connection t1="Longbow Hall" t2="North Narrow Sea"/>
-    <connection t1="Iron Oaks" t2="Longbow Rapids"/>
-    <connection t1="Iron Oaks" t2="The Eyrie"/>
-    <connection t1="Iron Oaks" t2="Wickenden"/>
-    <connection t1="Strongsong" t2="Colwater Burn"/>
-    <connection t1="Strongsong" t2="Mountains of the Moon"/>
-    <connection t1="Strongsong" t2="The Eyrie"/>
-    <connection t1="Strongsong" t2="Snakewood"/>
-    <connection t1="Colwater Burn" t2="Snakewood"/>
-    <connection t1="Colwater Burn" t2="North Narrow Sea"/>
-    <connection t1="Mountains of the Moon" t2="Green Fork"/>
-    <connection t1="Mountains of the Moon" t2="Wickenden"/>
-    <connection t1="Snakewood" t2="North Narrow Sea"/>
-    <connection t1="Rooks Rest" t2="Bay of Crabs"/>
-    <connection t1="Rooks Rest" t2="The Gullet"/>
-    <connection t1="Rooks Rest" t2="Maidenpool"/>
-    <connection t1="Rooks Rest" t2="Duskendale"/>
-    <connection t1="Rooks Rest" t2="Antlers"/>
-    <connection t1="Rooks Rest" t2="Blackwater Bay"/>
-    <connection t1="Mistwood" t2="Rain House"/>
-    <connection t1="Mistwood" t2="Crows Nest"/>
-    <connection t1="Mistwood" t2="East Sea of Dorne"/>
-    <connection t1="Kings Landing" t2="Port of Kings Landing"/>
-    <connection t1="Kings Landing" t2="The Crownlands"/>
-    <connection t1="Duskendale" t2="Antlers"/>
-    <connection t1="Duskendale" t2="The Crownlands"/>
-    <connection t1="Duskendale" t2="Blackwater Bay"/>
-    <connection t1="Bronzegate" t2="Storms End"/>
-    <connection t1="Bronzegate" t2="Felwood"/>
-    <connection t1="Bronzegate" t2="The Crownlands"/>
-    <connection t1="Bronzegate" t2="Haystitch Hall"/>
-    <connection t1="Storms End" t2="Felwood"/>
-    <connection t1="Storms End" t2="Griffins Roost"/>
-    <connection t1="Storms End" t2="Haystitch Hall"/>
-    <connection t1="Rain House" t2="Crows Nest"/>
-    <connection t1="Felwood" t2="Griffins Roost"/>
-    <connection t1="Felwood" t2="The Crownlands"/>
-    <connection t1="Antlers" t2="The Crownlands"/>
-    <connection t1="Antlers" t2="Harrenhall"/>
-    <connection t1="Crows Nest" t2="West Sea of Dorne"/>
-    <connection t1="Crows Nest" t2="Griffins Roost"/>
-    <connection t1="Crows Nest" t2="East Sea of Dorne"/>
-    <connection t1="The Crownlands" t2="Blackwater Bay"/>
-    <connection t1="The Crownlands" t2="Harrenhall"/>
-    <connection t1="The Crownlands" t2="Haystitch Hall"/>
-    <connection t1="Eastern Dothraki Sea" t2="Dothraki Sea"/>
-    <connection t1="Eastern Dothraki Sea" t2="Midlands Road"/>
-    <connection t1="Eastern Dothraki Sea" t2="Vaes Dothrak"/>
-    <connection t1="Eastern Dothraki Sea" t2="Lhazar"/>
-    <connection t1="Lhazar" t2="Dothraki Sea"/>
-    <connection t1="Lhazar" t2="Western Dothraki Sea"/>
-    <connection t1="Lhazar" t2="Qohor"/>
-    <connection t1="Dothraki Riverlands" t2="Southeast Shivering Sea"/>
-    <connection t1="Dothraki Riverlands" t2="Dothraki Sea"/>
-    <connection t1="Dothraki Riverlands" t2="Dothraki Highlands"/>
-    <connection t1="Dothraki Riverlands" t2="Mother of Mountains"/>
-    <connection t1="Dothraki Riverlands" t2="Vaes Dothrak"/>
-    <connection t1="Western Dothraki Sea" t2="Dothraki Sea"/>
-    <connection t1="Western Dothraki Sea" t2="Midlands Road"/>
-    <connection t1="Western Dothraki Sea" t2="The Frozen Stump"/>
-    <connection t1="Dothraki Sea" t2="Midlands Road"/>
-    <connection t1="Dothraki Sea" t2="Vaes Dothrak"/>
-    <connection t1="Dothraki Highlands" t2="Mother of Mountains"/>
-    <connection t1="Mother of Mountains" t2="Vaes Dothrak"/>
-    <connection t1="Andalos" t2="Waters of Braavos"/>
-    <connection t1="Andalos" t2="Pentos"/>
-    <connection t1="Andalos" t2="Lorath Bay"/>
-    <connection t1="Andalos" t2="Longbow Rapids"/>
-    <connection t1="Andalos" t2="Norvos"/>
-    <connection t1="Andalos" t2="Braavos"/>
-    <connection t1="The Disputed Lands" t2="Volantis"/>
-    <connection t1="The Disputed Lands" t2="South Narrow Sea"/>
-    <connection t1="The Disputed Lands" t2="The Golden Fields"/>
-    <connection t1="The Disputed Lands" t2="Myr"/>
-    <connection t1="The Disputed Lands" t2="The Flatlands"/>
-    <connection t1="The Disputed Lands" t2="The Orange Shore"/>
-    <connection t1="The Disputed Lands" t2="Sea of Myrth"/>
-    <connection t1="Volantis" t2="The Golden Fields"/>
-    <connection t1="Volantis" t2="The Lands of the Long Summer"/>
-    <connection t1="Volantis" t2="Selhoru Marsh"/>
-    <connection t1="Volantis" t2="Mantarys"/>
-    <connection t1="Volantis" t2="The Orange Shore"/>
-    <connection t1="Hills of Norvos" t2="Lorath Bay"/>
-    <connection t1="Hills of Norvos" t2="Norvos"/>
-    <connection t1="Pentos" t2="Norvos"/>
-    <connection t1="Pentos" t2="The Flatlands"/>
-    <connection t1="Qohor" t2="Western Dothraki Sea"/>
-    <connection t1="Qohor" t2="The Frozen Stump"/>
-    <connection t1="Qohor" t2="Norvos"/>
-    <connection t1="The Golden Fields" t2="Midlands Road"/>
-    <connection t1="The Golden Fields" t2="Selhoru Marsh"/>
-    <connection t1="The Golden Fields" t2="Norvos"/>
-    <connection t1="The Golden Fields" t2="The Flatlands"/>
-    <connection t1="The Golden Fields" t2="Ar Noy"/>
-    <connection t1="The Golden Fields" t2="Qohor"/>
-    <connection t1="Lys" t2="The Orange Waters"/>
-    <connection t1="Lys" t2="Through of Lys"/>
-    <connection t1="Tyrosh" t2="Sea of Myrth"/>
-    <connection t1="Norvos" t2="The Flatlands"/>
-    <connection t1="Myr" t2="The Flatlands"/>
-    <connection t1="Myr" t2="Sea of Myrth"/>
-    <connection t1="The Flatlands" t2="Sea of Myrth"/>
-    <connection t1="The Ax" t2="Norvos"/>
-    <connection t1="The Ax" t2="South Shivering Sea"/>
-    <connection t1="The Ax" t2="Hills of Norvos"/>
-    <connection t1="The Ax" t2="The Frozen Stump"/>
-    <connection t1="The Ax" t2="Qohor"/>
-    <connection t1="Fist of the First Men" t2="The Frostfangs"/>
-    <connection t1="Fist of the First Men" t2="Bridge of Skulls"/>
-    <connection t1="Fist of the First Men" t2="The Wall"/>
-    <connection t1="Fist of the First Men" t2="The Haunted Forest"/>
-    <connection t1="Fist of the First Men" t2="The Milkwater"/>
-    <connection t1="Fist of the First Men" t2="Craster's Keep"/>
-    <connection t1="Hardhome" t2="The Haunted Sea"/>
-    <connection t1="Hardhome" t2="Bay of Seals"/>
-    <connection t1="Hardhome" t2="The Wall"/>
-    <connection t1="Hardhome" t2="Northwest Shivering Sea"/>
-    <connection t1="Hardhome" t2="The Haunted Forest"/>
-    <connection t1="Hardhome" t2="Craster's Keep"/>
-    <connection t1="The Frostfangs" t2="Bay of Ice"/>
-    <connection t1="The Frostfangs" t2="Bridge of Skulls"/>
-    <connection t1="The Frostfangs" t2="The Frozen Shore"/>
-    <connection t1="The Frostfangs" t2="The Milkwater"/>
-    <connection t1="The Haunted Forest" t2="The Milkwater"/>
-    <connection t1="The Haunted Forest" t2="Craster's Keep"/>
-    <connection t1="Blacktyde" t2="Kraken Sound"/>
-    <connection t1="Blacktyde" t2="Bay of Eagles"/>
-    <connection t1="Pyke" t2="Gold Coast"/>
-    <connection t1="Pyke" t2="Pyke Strait"/>
-    <connection t1="Pyke" t2="North Sunset Sea"/>
-    <connection t1="Pyke" t2="The Iron Islands"/>
-    <connection t1="Harlaw" t2="Pyke Strait"/>
-    <connection t1="Harlaw" t2="Bay of Eagles"/>
-    <connection t1="Harlaw" t2="The Iron Islands"/>
-    <connection t1="Orkmont" t2="The Iron Islands"/>
-    <connection t1="Banefort" t2="Ashemark"/>
-    <connection t1="Banefort" t2="Gold Coast"/>
-    <connection t1="Banefort" t2="Pyke Strait"/>
-    <connection t1="Banefort" t2="Riverlands"/>
-    <connection t1="Banefort" t2="The Crag"/>
-    <connection t1="Kayce" t2="Casterly Rock"/>
-    <connection t1="Kayce" t2="Sarsfield"/>
-    <connection t1="Kayce" t2="Faircastle Strait"/>
-    <connection t1="Kayce" t2="Feastfires Sound"/>
-    <connection t1="Kayce" t2="Lannisport"/>
-    <connection t1="Kayce" t2="Port of Lannisport"/>
-    <connection t1="Casterly Rock" t2="Lannisport"/>
-    <connection t1="Casterly Rock" t2="Port of Lannisport"/>
-    <connection t1="Ashemark" t2="Sarsfield"/>
-    <connection t1="Ashemark" t2="Faircastle Strait"/>
-    <connection t1="Ashemark" t2="Gold Coast"/>
-    <connection t1="Ashemark" t2="Riverlands"/>
-    <connection t1="Ashemark" t2="Golden Tooth"/>
-    <connection t1="Ashemark" t2="The Crag"/>
-    <connection t1="Sarsfield" t2="Deep Den"/>
-    <connection t1="Sarsfield" t2="Faircastle Strait"/>
-    <connection t1="Sarsfield" t2="Hornvale"/>
-    <connection t1="Sarsfield" t2="Golden Tooth"/>
-    <connection t1="Sarsfield" t2="Lannisport"/>
-    <connection t1="Deep Den" t2="Hornvale"/>
-    <connection t1="Deep Den" t2="Silverhall"/>
-    <connection t1="Deep Den" t2="Lannisport"/>
-    <connection t1="Crakehall" t2="Old Oak"/>
-    <connection t1="Crakehall" t2="Cornfield"/>
-    <connection t1="Crakehall" t2="The Sunset Sea"/>
-    <connection t1="Crakehall" t2="Lannisport"/>
-    <connection t1="Crakehall" t2="Port of Lannisport"/>
-    <connection t1="Cornfield" t2="Silverhall"/>
-    <connection t1="Cornfield" t2="Lannisport"/>
-    <connection t1="Hornvale" t2="Golden Tooth"/>
-    <connection t1="Silverhall" t2="Lannisport"/>
-    <connection t1="Lannisport" t2="Port of Lannisport"/>
-    <connection t1="Wyl" t2="Grassy Vale"/>
-    <connection t1="Wyl" t2="The Reach"/>
-    <connection t1="Wyl" t2="Red Mountains"/>
-    <connection t1="Wyl" t2="Crows Nest"/>
-    <connection t1="Wyl" t2="Nightsong"/>
-    <connection t1="Wyl" t2="Yronwood"/>
-    <connection t1="Wyl" t2="West Sea of Dorne"/>
-    <connection t1="Wyl" t2="Griffins Roost"/>
-    <connection t1="Godsgrace" t2="North Summer Sea"/>
-    <connection t1="Godsgrace" t2="Sunspear"/>
-    <connection t1="Godsgrace" t2="Vaith"/>
-    <connection t1="Godsgrace" t2="Ghost Hall"/>
-    <connection t1="Godsgrace" t2="Yronwood"/>
-    <connection t1="Godsgrace" t2="Lemonwood"/>
-    <connection t1="Godsgrace" t2="East Sea of Dorne"/>
-    <connection t1="Sunspear" t2="Ghost Hall"/>
-    <connection t1="Sunspear" t2="Lemonwood"/>
-    <connection t1="Sunspear" t2="Through of Lys"/>
-    <connection t1="Vaith" t2="Hellholt"/>
-    <connection t1="Vaith" t2="Yronwood"/>
-    <connection t1="Blackmont" t2="Nightsong"/>
-    <connection t1="Blackmont" t2="Starfall"/>
-    <connection t1="Blackmont" t2="Skyreach"/>
-    <connection t1="Blackmont" t2="Horn Hill"/>
-    <connection t1="Hellholt" t2="Yronwood"/>
-    <connection t1="Hellholt" t2="Sandstone"/>
-    <connection t1="Hellholt" t2="Skyreach"/>
-    <connection t1="Ghost Hall" t2="East Sea of Dorne"/>
-    <connection t1="Ghost Hall" t2="Through of Lys"/>
-    <connection t1="Yronwood" t2="West Sea of Dorne"/>
-    <connection t1="Yronwood" t2="Skyreach"/>
-    <connection t1="Yronwood" t2="East Sea of Dorne"/>
-    <connection t1="Starfall" t2="Sandstone"/>
-    <connection t1="Starfall" t2="Skyreach"/>
-    <connection t1="Sandstone" t2="Skyreach"/>
-    <connection t1="Lemonwood" t2="Through of Lys"/>
-    <connection t1="The Gift" t2="Last Hearth"/>
-    <connection t1="The Gift" t2="Bay of Ice"/>
-    <connection t1="The Gift" t2="Bridge of Skulls"/>
-    <connection t1="The Gift" t2="Bay of Seals"/>
-    <connection t1="The Gift" t2="The Wall"/>
-    <connection t1="Flint's Finger" t2="Greywater Watch"/>
-    <connection t1="Flint's Finger" t2="Blazewater Bay"/>
-    <connection t1="Flint's Finger" t2="Port of Barrowtown"/>
-    <connection t1="Flint's Finger" t2="Kraken Sound"/>
-    <connection t1="Flint's Finger" t2="Bay of Eagles"/>
-    <connection t1="Flint's Finger" t2="North Neck Swamp"/>
-    <connection t1="Flint's Finger" t2="South Neck Swamps"/>
-    <connection t1="Skagos" t2="West Shivering Sea"/>
-    <connection t1="Skagos" t2="Bay of Seals"/>
-    <connection t1="Skagos" t2="Northwest Shivering Sea"/>
-    <connection t1="Last Hearth" t2="The Dreadfort"/>
-    <connection t1="Last Hearth" t2="Bay of Ice"/>
-    <connection t1="Last Hearth" t2="Bay of Seals"/>
-    <connection t1="Last Hearth" t2="Karhold"/>
-    <connection t1="Last Hearth" t2="Winterfell"/>
-    <connection t1="Torrhens Square" t2="Barrowton"/>
-    <connection t1="Torrhens Square" t2="White Harbor"/>
-    <connection t1="Torrhens Square" t2="Winterfell"/>
-    <connection t1="Torrhens Square" t2="The Stony Shore"/>
-    <connection t1="Barrowton" t2="Port of Barrowtown"/>
-    <connection t1="Barrowton" t2="Moat Cailin"/>
-    <connection t1="Barrowton" t2="White Harbor"/>
-    <connection t1="Barrowton" t2="The Stony Shore"/>
-    <connection t1="Hornwood" t2="The Dreadfort"/>
-    <connection t1="Hornwood" t2="White Harbor"/>
-    <connection t1="Hornwood" t2="Winterfell"/>
-    <connection t1="The Dreadfort" t2="White Harbor"/>
-    <connection t1="The Dreadfort" t2="Widows Watch"/>
-    <connection t1="The Dreadfort" t2="Karhold"/>
-    <connection t1="The Dreadfort" t2="Winterfell"/>
-    <connection t1="Deepwood Motte" t2="Bay of Ice"/>
-    <connection t1="Deepwood Motte" t2="Winterfell"/>
-    <connection t1="Deepwood Motte" t2="The Stony Shore"/>
-    <connection t1="Moat Cailin" t2="White Harbor"/>
-    <connection t1="Moat Cailin" t2="North Neck Swamp"/>
-    <connection t1="White Harbor" t2="Winterfell"/>
-    <connection t1="Widows Watch" t2="North Narrow Sea"/>
-    <connection t1="North Neck Swamp" t2="South Neck Swamps"/>
-    <connection t1="Winterfell" t2="The Stony Shore"/>
-    <connection t1="Yunkai" t2="Port of Meereen"/>
-    <connection t1="Yunkai" t2="East Slavers Bay"/>
-    <connection t1="Yunkai" t2="Meereen"/>
-    <connection t1="Yunkai" t2="Astapor"/>
-    <connection t1="Tolos" t2="The Lands of the Long Summer"/>
-    <connection t1="Tolos" t2="Mantarys"/>
-    <connection t1="Tolos" t2="Bhorash"/>
-    <connection t1="Meereen" t2="Bhorash"/>
-    <connection t1="The Lands of the Long Summer" t2="The Smoking Sea"/>
-    <connection t1="The Lands of the Long Summer" t2="Mantarys"/>
-    <connection t1="Mantarys" t2="Midlands Road"/>
-    <connection t1="Astapor" t2="Old Ghis"/>
-    <connection t1="Stoney Sept" t2="Pinkmaiden"/>
-    <connection t1="Stoney Sept" t2="Deep Den"/>
-    <connection t1="Stoney Sept" t2="The Gold Road"/>
-    <connection t1="Stoney Sept" t2="Hornvale"/>
-    <connection t1="Stoney Sept" t2="Silverhall"/>
-    <connection t1="Stoney Sept" t2="Acorn Hall"/>
-    <connection t1="Stoney Sept" t2="The Crownlands"/>
-    <connection t1="Stoney Sept" t2="Harrenhall"/>
-    <connection t1="Saltpans" t2="Mouth of the Trident"/>
-    <connection t1="Saltpans" t2="Trident Bay"/>
-    <connection t1="Saltpans" t2="Mountains of the Moon"/>
-    <connection t1="Saltpans" t2="Wickenden"/>
-    <connection t1="Maidenpool" t2="Mouth of the Trident"/>
-    <connection t1="Maidenpool" t2="Trident Bay"/>
-    <connection t1="Maidenpool" t2="Antlers"/>
-    <connection t1="Seagard" t2="The Twins"/>
-    <connection t1="Seagard" t2="Fairmarket"/>
-    <connection t1="Seagard" t2="Green Fork"/>
-    <connection t1="Mouth of the Trident" t2="Trident Bay"/>
-    <connection t1="Mouth of the Trident" t2="Antlers"/>
-    <connection t1="Mouth of the Trident" t2="Mountains of the Moon"/>
-    <connection t1="Mouth of the Trident" t2="Lord Halloway's Town"/>
-    <connection t1="Mouth of the Trident" t2="Harrenhall"/>
-    <connection t1="Mouth of the Trident" t2="Green Fork"/>
-    <connection t1="Pinkmaiden" t2="Riverlands"/>
-    <connection t1="Pinkmaiden" t2="Hornvale"/>
-    <connection t1="Pinkmaiden" t2="Golden Tooth"/>
-    <connection t1="Pinkmaiden" t2="Acorn Hall"/>
-    <connection t1="The Twins" t2="The Bite"/>
-    <connection t1="The Twins" t2="South Neck Swamps"/>
-    <connection t1="Riverlands" t2="Golden Tooth"/>
-    <connection t1="Riverlands" t2="Fairmarket"/>
-    <connection t1="Riverlands" t2="Lord Halloway's Town"/>
-    <connection t1="Riverlands" t2="Acorn Hall"/>
-    <connection t1="Riverlands" t2="Harrenhall"/>
-    <connection t1="Fairmarket" t2="Lord Halloway's Town"/>
-    <connection t1="Fairmarket" t2="Green Fork"/>
-    <connection t1="Riverrun" t2="Riverlands"/>
-    <connection t1="Lord Halloway's Town" t2="Harrenhall"/>
-    <connection t1="Lord Halloway's Town" t2="Green Fork"/>
-    <connection t1="Acorn Hall" t2="Harrenhall"/>
-    <connection t1="Green Fork" t2="The Twins"/>
-    <connection t1="Red Lake" t2="Golden Grove"/>
-    <connection t1="Red Lake" t2="The Reach"/>
-    <connection t1="Red Lake" t2="Crakehall"/>
-    <connection t1="Red Lake" t2="Old Oak"/>
-    <connection t1="Red Lake" t2="Cornfield"/>
-    <connection t1="Red Lake" t2="Silverhall"/>
-    <connection t1="Golden Grove" t2="The Reach"/>
-    <connection t1="Golden Grove" t2="Bitterbridge"/>
-    <connection t1="Golden Grove" t2="Silverhall"/>
-    <connection t1="Tumbleton" t2="Grassy Vale"/>
-    <connection t1="Tumbleton" t2="The Gold Road"/>
-    <connection t1="Tumbleton" t2="Felwood"/>
-    <connection t1="Tumbleton" t2="Bitterbridge"/>
-    <connection t1="Tumbleton" t2="The Crownlands"/>
-    <connection t1="Grassy Vale" t2="The Reach"/>
-    <connection t1="Grassy Vale" t2="Felwood"/>
-    <connection t1="Grassy Vale" t2="Bitterbridge"/>
-    <connection t1="Grassy Vale" t2="Griffins Roost"/>
-    <connection t1="Sunhouse" t2="Redwyne Straits"/>
-    <connection t1="Sunhouse" t2="Oldtown"/>
-    <connection t1="Sunhouse" t2="Three Towers"/>
-    <connection t1="Sunhouse" t2="Starfall"/>
-    <connection t1="The Reach" t2="Old Oak"/>
-    <connection t1="The Reach" t2="Brightwater Keep"/>
-    <connection t1="The Reach" t2="Oldtown"/>
-    <connection t1="The Reach" t2="Bitterbridge"/>
-    <connection t1="The Reach" t2="Blackmont"/>
-    <connection t1="The Reach" t2="Port of the Reach"/>
-    <connection t1="The Reach" t2="Nightsong"/>
-    <connection t1="The Reach" t2="Highgarden"/>
-    <connection t1="The Reach" t2="Horn Hill"/>
-    <connection t1="Old Oak" t2="Port of the Reach"/>
-    <connection t1="Old Oak" t2="The Sunset Sea"/>
-    <connection t1="Blackcrown" t2="Bandallon Swifts"/>
-    <connection t1="Brightwater Keep" t2="Oldtown"/>
-    <connection t1="Brightwater Keep" t2="Bandallon Swifts"/>
-    <connection t1="Brightwater Keep" t2="Port of the Reach"/>
-    <connection t1="Brightwater Keep" t2="Bandallon"/>
-    <connection t1="Oldtown" t2="Blackcrown"/>
-    <connection t1="Oldtown" t2="Blackmont"/>
-    <connection t1="Oldtown" t2="Three Towers"/>
-    <connection t1="Oldtown" t2="Starfall"/>
-    <connection t1="Oldtown" t2="Bandallon"/>
-    <connection t1="Oldtown" t2="Horn Hill"/>
-    <connection t1="Bitterbridge" t2="Silverhall"/>
-    <connection t1="Bandallon" t2="Blackcrown"/>
-    <connection t1="Bloodstone Strait" t2="Mistwood"/>
-    <connection t1="Bloodstone Strait" t2="The Narrow Sea"/>
-    <connection t1="Bloodstone Strait" t2="South Narrow Sea"/>
-    <connection t1="Bloodstone Strait" t2="Rain House"/>
-    <connection t1="Bloodstone Strait" t2="Bloodstone"/>
-    <connection t1="Bloodstone Strait" t2="Tyrosh"/>
-    <connection t1="Bloodstone Strait" t2="East Sea of Dorne"/>
-    <connection t1="Shipbreaker Bay" t2="The Narrow Sea"/>
-    <connection t1="Shipbreaker Bay" t2="Strait of Tarth"/>
-    <connection t1="Shipbreaker Bay" t2="Storms End"/>
-    <connection t1="Shipbreaker Bay" t2="Rain House"/>
-    <connection t1="Shipbreaker Bay" t2="Crows Nest"/>
-    <connection t1="Shipbreaker Bay" t2="Griffins Roost"/>
-    <connection t1="Shipbreaker Bay" t2="Haystitch Hall"/>
-    <connection t1="Shipbreaker Bay" t2="Tarth"/>
-    <connection t1="Naath" t2="Shallows of Naath"/>
-    <connection t1="Naath" t2="Western Summer Sea"/>
-    <connection t1="Ghoyan Drohe" t2="Pentos"/>
-    <connection t1="Ghoyan Drohe" t2="Norvos"/>
-    <connection t1="Ghoyan Drohe" t2="The Flatlands"/>
-    <connection t1="Gogossos" t2="The Basilisk Isles"/>
-    <connection t1="Gogossos" t2="Gogossos Bay"/>
-    <connection t1="Oros" t2="The Gulf of Grief"/>
-    <connection t1="Oros" t2="The Smoking Sea"/>
-    <connection t1="Oros" t2="South Gulf of Grief"/>
-    <connection t1="Ironmans Bay" t2="Banefort"/>
-    <connection t1="Ironmans Bay" t2="Seagard"/>
-    <connection t1="Ironmans Bay" t2="The Twins"/>
-    <connection t1="Ironmans Bay" t2="Harlaw"/>
-    <connection t1="Ironmans Bay" t2="Pyke Strait"/>
-    <connection t1="Ironmans Bay" t2="Riverlands"/>
-    <connection t1="Ironmans Bay" t2="Bay of Eagles"/>
-    <connection t1="Ironmans Bay" t2="Fairmarket"/>
-    <connection t1="Ironmans Bay" t2="South Neck Swamps"/>
-    <connection t1="Tyria" t2="The Smoking Sea"/>
-    <connection t1="Tyria" t2="South Smoking Sea"/>
-    <connection t1="New Ghis" t2="The Gulf of Grief"/>
-    <connection t1="New Ghis" t2="Ghiscari Strait"/>
-    <connection t1="Bay of Crabs" t2="The Gullet"/>
-    <connection t1="Bay of Crabs" t2="Andalos"/>
-    <connection t1="Bay of Crabs" t2="Gulltown"/>
-    <connection t1="Bay of Crabs" t2="Trident Bay"/>
-    <connection t1="Bay of Crabs" t2="Iron Oaks"/>
-    <connection t1="Bay of Crabs" t2="Longbow Rapids"/>
-    <connection t1="Bay of Crabs" t2="Wickenden"/>
-    <connection t1="The Gullet" t2="Andalos"/>
-    <connection t1="The Gullet" t2="Strait of Tarth"/>
-    <connection t1="The Gullet" t2="Pentos"/>
-    <connection t1="The Gullet" t2="Blackwater Bay"/>
-    <connection t1="The Gullet" t2="Dragonstone"/>
-    <connection t1="Volaena Marsh" t2="Volantis"/>
-    <connection t1="Volaena Marsh" t2="Midlands Road"/>
-    <connection t1="Volaena Marsh" t2="Selhoru Marsh"/>
-    <connection t1="West Slavers Bay" t2="East Slavers Bay"/>
-    <connection t1="West Slavers Bay" t2="Cedar Pass"/>
-    <connection t1="West Slavers Bay" t2="Tolos"/>
-    <connection t1="West Slavers Bay" t2="Isle of Cedars"/>
-    <connection t1="West Slavers Bay" t2="The Lands of the Long Summer"/>
-    <connection t1="West Slavers Bay" t2="Astapor"/>
-    <connection t1="Greywater Watch" t2="North Neck Swamp"/>
-    <connection t1="Greywater Watch" t2="South Neck Swamps"/>
-    <connection t1="South Khyzai Pass" t2="North Khyzai Pass"/>
-    <connection t1="South Khyzai Pass" t2="Bhorash"/>
-    <connection t1="South Shivering Sea" t2="Andalos"/>
-    <connection t1="South Shivering Sea" t2="Waters of Braavos"/>
-    <connection t1="South Shivering Sea" t2="Hills of Norvos"/>
-    <connection t1="South Shivering Sea" t2="Lorath Bay"/>
-    <connection t1="South Shivering Sea" t2="The Shivering Sea"/>
-    <connection t1="South Shivering Sea" t2="Lorath"/>
-    <connection t1="South Shivering Sea" t2="The Frozen Stump"/>
-    <connection t1="Yeen" t2="Shallows of Naath"/>
-    <connection t1="Yeen" t2="The Basilisk Isles"/>
-    <connection t1="Yeen" t2="Ghiscari Strait"/>
-    <connection t1="Yeen" t2="Gogossos Bay"/>
-    <connection t1="Blazewater Bay" t2="Very Cold Sea"/>
-    <connection t1="Blazewater Bay" t2="Port of Barrowtown"/>
-    <connection t1="Blazewater Bay" t2="Kraken Sound"/>
-    <connection t1="Blazewater Bay" t2="The Stony Shore"/>
-    <connection t1="East Summer Sea" t2="Brimstone Waters"/>
-    <connection t1="East Summer Sea" t2="North Summer Sea"/>
-    <connection t1="East Summer Sea" t2="Redwyne Straits"/>
-    <connection t1="East Summer Sea" t2="The Summer Sea"/>
-    <connection t1="Sea Dragon" t2="Very Cold Sea"/>
-    <connection t1="Sea Dragon" t2="Deepwood Motte"/>
-    <connection t1="Sea Dragon" t2="Bay of Ice"/>
-    <connection t1="Sea Dragon" t2="Bear Island"/>
-    <connection t1="Sea Dragon" t2="The Frozen Shore"/>
-    <connection t1="Sea Dragon" t2="The Stony Shore"/>
-    <connection t1="Port of Meereen" t2="East Slavers Bay"/>
-    <connection t1="Port of Meereen" t2="Meereen"/>
-    <connection t1="Port of Meereen" t2="Bhorash"/>
-    <connection t1="South Sunset Sea" t2="Port of Oldtown"/>
-    <connection t1="South Sunset Sea" t2="Sunhouse"/>
-    <connection t1="South Sunset Sea" t2="Redwyne Straits"/>
-    <connection t1="South Sunset Sea" t2="Blackcrown"/>
-    <connection t1="South Sunset Sea" t2="Bandallon Swifts"/>
-    <connection t1="South Sunset Sea" t2="Three Towers"/>
-    <connection t1="South Sunset Sea" t2="The Arbor"/>
-    <connection t1="East Slavers Bay" t2="Tolos"/>
-    <connection t1="East Slavers Bay" t2="Bhorash"/>
-    <connection t1="East Slavers Bay" t2="Astapor"/>
-    <connection t1="Very Cold Sea" t2="The Stony Shore"/>
-    <connection t1="Brimstone Waters" t2="North Summer Sea"/>
-    <connection t1="Brimstone Waters" t2="Redwyne Straits"/>
-    <connection t1="Brimstone Waters" t2="Vaith"/>
-    <connection t1="Brimstone Waters" t2="Hellholt"/>
-    <connection t1="Brimstone Waters" t2="Sandstone"/>
-    <connection t1="Shallows of Naath" t2="The Basilisk Isles"/>
-    <connection t1="Shallows of Naath" t2="South Gulf of Grief"/>
-    <connection t1="Shallows of Naath" t2="South Smoking Sea"/>
-    <connection t1="Northeast Summer Sea" t2="Volantis"/>
-    <connection t1="Northeast Summer Sea" t2="Western Summer Sea"/>
-    <connection t1="Northeast Summer Sea" t2="The Lands of the Long Summer"/>
-    <connection t1="Northeast Summer Sea" t2="The Smoking Sea"/>
-    <connection t1="Northeast Summer Sea" t2="South Smoking Sea"/>
-    <connection t1="Northeast Summer Sea" t2="The Orange Waters"/>
-    <connection t1="Northeast Summer Sea" t2="The Orange Shore"/>
-    <connection t1="The Narrow Sea" t2="Strait of Tarth"/>
-    <connection t1="The Narrow Sea" t2="Pentos"/>
-    <connection t1="The Narrow Sea" t2="Rain House"/>
-    <connection t1="The Narrow Sea" t2="Tyrosh"/>
-    <connection t1="The Narrow Sea" t2="The Flatlands"/>
-    <connection t1="The Narrow Sea" t2="Tarth"/>
-    <connection t1="The Narrow Sea" t2="Sea of Myrth"/>
-    <connection t1="Port of Barrowtown" t2="Moat Cailin"/>
-    <connection t1="Port of Barrowtown" t2="North Neck Swamp"/>
-    <connection t1="Port of Barrowtown" t2="The Stony Shore"/>
-    <connection t1="Port of Oldtown" t2="Blackcrown"/>
-    <connection t1="Port of Oldtown" t2="Oldtown"/>
-    <connection t1="Port of Oldtown" t2="Three Towers"/>
-    <connection t1="Cedar Pass" t2="The Gulf of Grief"/>
-    <connection t1="Cedar Pass" t2="Isle of Cedars"/>
-    <connection t1="Cedar Pass" t2="The Lands of the Long Summer"/>
-    <connection t1="Cedar Pass" t2="Astapor"/>
-    <connection t1="Cedar Pass" t2="Old Ghis"/>
-    <connection t1="Kraken Sound" t2="North Sunset Sea"/>
-    <connection t1="Kraken Sound" t2="Bay of Eagles"/>
-    <connection t1="Kraken Sound" t2="Orkmont"/>
-    <connection t1="Kraken Sound" t2="The Iron Islands"/>
-    <connection t1="Kraken Sound" t2="Great Wyk"/>
-    <connection t1="Weeping Bay" t2="The Dreadfort"/>
-    <connection t1="Weeping Bay" t2="West Shivering Sea"/>
-    <connection t1="Weeping Bay" t2="Widows Watch"/>
-    <connection t1="Weeping Bay" t2="Karhold"/>
-    <connection t1="Weeping Bay" t2="North Narrow Sea"/>
-    <connection t1="Southeast Shivering Sea" t2="Western Dothraki Sea"/>
-    <connection t1="Southeast Shivering Sea" t2="Northeast Shivering Sea"/>
-    <connection t1="Southeast Shivering Sea" t2="Dothraki Sea"/>
-    <connection t1="Southeast Shivering Sea" t2="Dothraki Highlands"/>
-    <connection t1="Southeast Shivering Sea" t2="The Shivering Sea"/>
-    <connection t1="Southeast Shivering Sea" t2="The Frozen Stump"/>
-    <connection t1="The Gulf of Grief" t2="The Lands of the Long Summer"/>
-    <connection t1="The Gulf of Grief" t2="The Smoking Sea"/>
-    <connection t1="The Gulf of Grief" t2="Ghiscari Strait"/>
-    <connection t1="The Gulf of Grief" t2="South Gulf of Grief"/>
-    <connection t1="The Gulf of Grief" t2="Old Ghis"/>
-    <connection t1="Waters of Braavos" t2="The Shivering Sea"/>
-    <connection t1="Waters of Braavos" t2="Longbow Rapids"/>
-    <connection t1="Waters of Braavos" t2="Braavos"/>
-    <connection t1="Waters of Braavos" t2="North Narrow Sea"/>
-    <connection t1="The Basilisk Isles" t2="Ghiscari Strait"/>
-    <connection t1="The Basilisk Isles" t2="South Gulf of Grief"/>
-    <connection t1="The Basilisk Isles" t2="Gogossos Bay"/>
-    <connection t1="Cold Coast" t2="The Dreadfort"/>
-    <connection t1="Cold Coast" t2="Port of White Harbor"/>
-    <connection t1="Cold Coast" t2="Strongsong"/>
-    <connection t1="Cold Coast" t2="The Bite"/>
-    <connection t1="Cold Coast" t2="Colwater Burn"/>
-    <connection t1="Cold Coast" t2="Mountains of the Moon"/>
-    <connection t1="Cold Coast" t2="White Harbor"/>
-    <connection t1="Cold Coast" t2="Three Sisters"/>
-    <connection t1="Cold Coast" t2="Widows Watch"/>
-    <connection t1="Cold Coast" t2="North Narrow Sea"/>
-    <connection t1="Trident Bay" t2="Rooks Rest"/>
-    <connection t1="Trident Bay" t2="Wickenden"/>
-    <connection t1="Faircastle Strait" t2="Gold Coast"/>
-    <connection t1="Faircastle Strait" t2="Feastfires Sound"/>
-    <connection t1="Faircastle Strait" t2="Faircastle"/>
-    <connection t1="Gold Coast" t2="Pyke Strait"/>
-    <connection t1="Gold Coast" t2="North Sunset Sea"/>
-    <connection t1="Gold Coast" t2="The Crag"/>
-    <connection t1="Gold Coast" t2="Faircastle"/>
-    <connection t1="Northeast Shivering Sea" t2="Dothraki Highlands"/>
-    <connection t1="Northeast Shivering Sea" t2="Ibben Passage"/>
-    <connection t1="Northeast Shivering Sea" t2="The Shivering Sea"/>
-    <connection t1="Northeast Shivering Sea" t2="Ibben"/>
-    <connection t1="Strait of Tarth" t2="Pentos"/>
-    <connection t1="Strait of Tarth" t2="Blackwater Bay"/>
-    <connection t1="Strait of Tarth" t2="Haystitch Hall"/>
-    <connection t1="Strait of Tarth" t2="Dragonstone"/>
-    <connection t1="Strait of Tarth" t2="Tarth"/>
-    <connection t1="North Khyzai Pass" t2="Midlands Road"/>
-    <connection t1="North Khyzai Pass" t2="Lhazar"/>
-    <connection t1="South Narrow Sea" t2="Lys"/>
-    <connection t1="South Narrow Sea" t2="Bloodstone"/>
-    <connection t1="South Narrow Sea" t2="Tyrosh"/>
-    <connection t1="South Narrow Sea" t2="Ghost Hall"/>
-    <connection t1="South Narrow Sea" t2="The Orange Waters"/>
-    <connection t1="South Narrow Sea" t2="East Sea of Dorne"/>
-    <connection t1="South Narrow Sea" t2="Through of Lys"/>
-    <connection t1="South Narrow Sea" t2="The Orange Shore"/>
-    <connection t1="South Narrow Sea" t2="Sea of Myrth"/>
-    <connection t1="Ny Sar" t2="The Golden Fields"/>
-    <connection t1="Ny Sar" t2="Norvos"/>
-    <connection t1="Ny Sar" t2="The Flatlands"/>
-    <connection t1="Red Mountains" t2="Blackmont"/>
-    <connection t1="Red Mountains" t2="Nightsong"/>
-    <connection t1="Red Mountains" t2="Yronwood"/>
-    <connection t1="Red Mountains" t2="Skyreach"/>
-    <connection t1="Bay of Ice" t2="Bridge of Skulls"/>
-    <connection t1="Bay of Ice" t2="Bear Island"/>
-    <connection t1="Bay of Ice" t2="The Frozen Shore"/>
-    <connection t1="Bay of Ice" t2="Winterfell"/>
-    <connection t1="Western Summer Sea" t2="Shallows of Naath"/>
-    <connection t1="Western Summer Sea" t2="The Summer Sea"/>
-    <connection t1="Western Summer Sea" t2="South Smoking Sea"/>
-    <connection t1="Western Summer Sea" t2="The Orange Waters"/>
-    <connection t1="North Summer Sea" t2="Vaith"/>
-    <connection t1="North Summer Sea" t2="The Summer Sea"/>
-    <connection t1="North Summer Sea" t2="Lemonwood"/>
-    <connection t1="North Summer Sea" t2="The Orange Waters"/>
-    <connection t1="North Summer Sea" t2="Through of Lys"/>
-    <connection t1="Port of Kings Landing" t2="The Crownlands"/>
-    <connection t1="Port of Kings Landing" t2="Blackwater Bay"/>
-    <connection t1="Port of White Harbor" t2="The Bite"/>
-    <connection t1="Port of White Harbor" t2="Moat Cailin"/>
-    <connection t1="Port of White Harbor" t2="White Harbor"/>
-    <connection t1="Port of White Harbor" t2="Three Sisters"/>
-    <connection t1="Port of White Harbor" t2="North Neck Swamp"/>
-    <connection t1="Redwyne Straits" t2="Starfall"/>
-    <connection t1="Redwyne Straits" t2="The Arbor"/>
-    <connection t1="Redwyne Straits" t2="Sandstone"/>
-    <connection t1="The Gold Road" t2="Bitterbridge"/>
-    <connection t1="The Gold Road" t2="Silverhall"/>
-    <connection t1="The Gold Road" t2="The Crownlands"/>
-    <connection t1="Bridge of Skulls" t2="The Wall"/>
-    <connection t1="Pyke Strait" t2="The Iron Islands"/>
-    <connection t1="North Sunset Sea" t2="Feastfires Sound"/>
-    <connection t1="North Sunset Sea" t2="The Iron Islands"/>
-    <connection t1="North Sunset Sea" t2="Great Wyk"/>
-    <connection t1="North Sunset Sea" t2="Faircastle"/>
-    <connection t1="Bay of Eagles" t2="Orkmont"/>
-    <connection t1="Bay of Eagles" t2="The Iron Islands"/>
-    <connection t1="Bay of Eagles" t2="South Neck Swamps"/>
-    <connection t1="Lorath Bay" t2="Lorath"/>
-    <connection t1="Lorath Bay" t2="Norvos"/>
-    <connection t1="The Haunted Sea" t2="Northwest Shivering Sea"/>
-    <connection t1="The Haunted Sea" t2="The Haunted Forest"/>
-    <connection t1="The Bite" t2="Mountains of the Moon"/>
-    <connection t1="The Bite" t2="Three Sisters"/>
-    <connection t1="The Bite" t2="North Neck Swamp"/>
-    <connection t1="The Bite" t2="Green Fork"/>
-    <connection t1="The Bite" t2="South Neck Swamps"/>
-    <connection t1="The Smoking Sea" t2="South Gulf of Grief"/>
-    <connection t1="The Smoking Sea" t2="South Smoking Sea"/>
-    <connection t1="The Smoking Sea" t2="Valyria"/>
-    <connection t1="Ghiscari Strait" t2="South Gulf of Grief"/>
-    <connection t1="Ghiscari Strait" t2="Old Ghis"/>
-    <connection t1="Ibben Passage" t2="West Shivering Sea"/>
-    <connection t1="Ibben Passage" t2="Northwest Shivering Sea"/>
-    <connection t1="Ibben Passage" t2="Ibben"/>
-    <connection t1="Feastfires Sound" t2="Faircastle"/>
-    <connection t1="Feastfires Sound" t2="Port of Lannisport"/>
-    <connection t1="Midlands Road" t2="Volantis"/>
-    <connection t1="Midlands Road" t2="Selhoru Marsh"/>
-    <connection t1="Midlands Road" t2="Norvos"/>
-    <connection t1="Midlands Road" t2="The Frozen Stump"/>
-    <connection t1="Midlands Road" t2="Ar Noy"/>
-    <connection t1="Midlands Road" t2="Qohor"/>
-    <connection t1="The Shivering Sea" t2="West Shivering Sea"/>
-    <connection t1="The Shivering Sea" t2="The Frozen Stump"/>
-    <connection t1="The Shivering Sea" t2="North Narrow Sea"/>
-    <connection t1="The Shivering Sea" t2="Ibben"/>
-    <connection t1="Bandallon Swifts" t2="Port of the Reach"/>
-    <connection t1="Bandallon Swifts" t2="Bandallon"/>
-    <connection t1="West Shivering Sea" t2="Bay of Seals"/>
-    <connection t1="West Shivering Sea" t2="Northwest Shivering Sea"/>
-    <connection t1="West Shivering Sea" t2="Karhold"/>
-    <connection t1="West Shivering Sea" t2="North Narrow Sea"/>
-    <connection t1="West Shivering Sea" t2="Ibben"/>
-    <connection t1="Bay of Seals" t2="The Wall"/>
-    <connection t1="Bay of Seals" t2="Northwest Shivering Sea"/>
-    <connection t1="Bay of Seals" t2="Karhold"/>
-    <connection t1="Longbow Rapids" t2="Braavos"/>
-    <connection t1="Longbow Rapids" t2="North Narrow Sea"/>
-    <connection t1="The Summer Sea" t2="The Orange Waters"/>
-    <connection t1="Port of the Reach" t2="The Sunset Sea"/>
-    <connection t1="West Sea of Dorne" t2="East Sea of Dorne"/>
-    <connection t1="The Sunset Sea" t2="Port of Lannisport"/>
-    <connection t1="South Gulf of Grief" t2="South Smoking Sea"/>
-    <connection t1="South Gulf of Grief" t2="Valyria"/>
-    <connection t1="The Wall" t2="Craster's Keep"/>
-    <connection t1="Blackwater Bay" t2="Haystitch Hall"/>
-    <connection t1="Blackwater Bay" t2="Dragonstone"/>
-    <connection t1="The Iron Islands" t2="Great Wyk"/>
-    <connection t1="Ar Noy" t2="Qohor"/>
-    <connection t1="South Smoking Sea" t2="Valyria"/>
-    <connection t1="The Orange Waters" t2="Through of Lys"/>
-    <connection t1="The Orange Waters" t2="The Orange Shore"/>
+	<!-- Territory Connections -->
+	<connection t1="Acorn Hall" t2="Harrenhall"/>
+	<connection t1="Acorn Hall" t2="Pinkmaiden"/>
+	<connection t1="Acorn Hall" t2="Riverlands"/>
+	<connection t1="Acorn Hall" t2="Stoney Sept"/>
+	<connection t1="Andalos" t2="Bay of Crabs"/>
+	<connection t1="Andalos" t2="Braavos"/>
+	<connection t1="Andalos" t2="Longbow Rapids"/>
+	<connection t1="Andalos" t2="Lorath Bay"/>
+	<connection t1="Andalos" t2="Norvos"/>
+	<connection t1="Andalos" t2="Pentos"/>
+	<connection t1="Andalos" t2="South Shivering Sea"/>
+	<connection t1="Andalos" t2="The Gullet"/>
+	<connection t1="Andalos" t2="Waters of Braavos"/>
+	<connection t1="Antlers" t2="Duskendale"/>
+	<connection t1="Antlers" t2="Harrenhall"/>
+	<connection t1="Antlers" t2="Maidenpool"/>
+	<connection t1="Antlers" t2="Mouth of the Trident"/>
+	<connection t1="Antlers" t2="Rooks Rest"/>
+	<connection t1="Antlers" t2="The Crownlands"/>
+	<connection t1="Ar Noy" t2="Qohor"/>
+	<connection t1="Ar Noy" t2="The Golden Fields"/>
+	<connection t1="Ashemark" t2="Banefort"/>
+	<connection t1="Ashemark" t2="Faircastle Strait"/>
+	<connection t1="Ashemark" t2="Gold Coast"/>
+	<connection t1="Ashemark" t2="Golden Tooth"/>
+	<connection t1="Ashemark" t2="Riverlands"/>
+	<connection t1="Ashemark" t2="Sarsfield"/>
+	<connection t1="Ashemark" t2="The Crag"/>
+	<connection t1="Astapor" t2="Cedar Pass"/>
+	<connection t1="Astapor" t2="East Slavers Bay"/>
+	<connection t1="Astapor" t2="Old Ghis"/>
+	<connection t1="Astapor" t2="West Slavers Bay"/>
+	<connection t1="Astapor" t2="Yunkai"/>
+	<connection t1="Bandallon" t2="Bandallon Swifts"/>
+	<connection t1="Bandallon" t2="Blackcrown"/>
+	<connection t1="Bandallon" t2="Brightwater Keep"/>
+	<connection t1="Bandallon" t2="Oldtown"/>
+	<connection t1="Bandallon Swifts" t2="Blackcrown"/>
+	<connection t1="Bandallon Swifts" t2="Brightwater Keep"/>
+	<connection t1="Bandallon Swifts" t2="Port of the Reach"/>
+	<connection t1="Bandallon Swifts" t2="South Sunset Sea"/>
+	<connection t1="Banefort" t2="Gold Coast"/>
+	<connection t1="Banefort" t2="Ironmans Bay"/>
+	<connection t1="Banefort" t2="Pyke Strait"/>
+	<connection t1="Banefort" t2="Riverlands"/>
+	<connection t1="Banefort" t2="The Crag"/>
+	<connection t1="Barrowton" t2="Moat Cailin"/>
+	<connection t1="Barrowton" t2="Port of Barrowtown"/>
+	<connection t1="Barrowton" t2="The Stony Shore"/>
+	<connection t1="Barrowton" t2="Torrhens Square"/>
+	<connection t1="Barrowton" t2="White Harbor"/>
+	<connection t1="Bay of Crabs" t2="Longbow Rapids"/>
+	<connection t1="Bay of Crabs" t2="Rooks Rest"/>
+	<connection t1="Bay of Crabs" t2="The Gullet"/>
+	<connection t1="Bay of Crabs" t2="Trident Bay"/>
+	<connection t1="Bay of Crabs" t2="Wickenden"/>
+	<connection t1="Bay of Eagles" t2="Blacktyde"/>
+	<connection t1="Bay of Eagles" t2="Flint's Finger"/>
+	<connection t1="Bay of Eagles" t2="Harlaw"/>
+	<connection t1="Bay of Eagles" t2="Ironmans Bay"/>
+	<connection t1="Bay of Eagles" t2="Kraken Sound"/>
+	<connection t1="Bay of Eagles" t2="Orkmont"/>
+	<connection t1="Bay of Eagles" t2="South Neck Swamps"/>
+	<connection t1="Bay of Eagles" t2="The Iron Islands"/>
+	<connection t1="Bay of Ice" t2="Bridge of Skulls"/>
+	<connection t1="Bay of Ice" t2="Deepwood Motte"/>
+	<connection t1="Bay of Ice" t2="Last Hearth"/>
+	<connection t1="Bay of Ice" t2="Sea Dragon"/>
+	<connection t1="Bay of Ice" t2="The Frostfangs"/>
+	<connection t1="Bay of Ice" t2="The Frozen Shore"/>
+	<connection t1="Bay of Ice" t2="The Gift"/>
+	<connection t1="Bay of Ice" t2="Winterfell"/>
+	<connection t1="Bay of Seals" t2="Hardhome"/>
+	<connection t1="Bay of Seals" t2="Karhold"/>
+	<connection t1="Bay of Seals" t2="Last Hearth"/>
+	<connection t1="Bay of Seals" t2="Northwest Shivering Sea"/>
+	<connection t1="Bay of Seals" t2="Skagos"/>
+	<connection t1="Bay of Seals" t2="The Gift"/>
+	<connection t1="Bay of Seals" t2="The Wall"/>
+	<connection t1="Bay of Seals" t2="West Shivering Sea"/>
+	<connection t1="Bear Island" t2="Bay of Ice"/>
+	<connection t1="Bear Island" t2="Sea Dragon"/>
+	<connection t1="Bhorash" t2="East Slavers Bay"/>
+	<connection t1="Bhorash" t2="Meereen"/>
+	<connection t1="Bhorash" t2="Port of Meereen"/>
+	<connection t1="Bhorash" t2="South Khyzai Pass"/>
+	<connection t1="Bhorash" t2="The Red Waste"/>
+	<connection t1="Bhorash" t2="The Red Wastes"/>
+	<connection t1="Bhorash" t2="Tolos"/>
+	<connection t1="Bitterbridge" t2="Golden Grove"/>
+	<connection t1="Bitterbridge" t2="Grassy Vale"/>
+	<connection t1="Bitterbridge" t2="Silverhall"/>
+	<connection t1="Bitterbridge" t2="The Gold Road"/>
+	<connection t1="Bitterbridge" t2="The Reach"/>
+	<connection t1="Bitterbridge" t2="Tumbleton"/>
+	<connection t1="Blackcrown" t2="Port of Oldtown"/>
+	<connection t1="Blackcrown" t2="South Sunset Sea"/>
+	<connection t1="Blackmont" t2="Horn Hill"/>
+	<connection t1="Blackmont" t2="Nightsong"/>
+	<connection t1="Blackmont" t2="Oldtown"/>
+	<connection t1="Blackmont" t2="Red Mountains"/>
+	<connection t1="Blackmont" t2="Skyreach"/>
+	<connection t1="Blackmont" t2="Starfall"/>
+	<connection t1="Blackmont" t2="The Reach"/>
+	<connection t1="Blacktyde" t2="Kraken Sound"/>
+	<connection t1="Blackwater Bay" t2="Dragonstone"/>
+	<connection t1="Blackwater Bay" t2="Duskendale"/>
+	<connection t1="Blackwater Bay" t2="Haystitch Hall"/>
+	<connection t1="Blackwater Bay" t2="Port of Kings Landing"/>
+	<connection t1="Blackwater Bay" t2="Rooks Rest"/>
+	<connection t1="Blackwater Bay" t2="Strait of Tarth"/>
+	<connection t1="Blackwater Bay" t2="The Crownlands"/>
+	<connection t1="Blackwater Bay" t2="The Gullet"/>
+	<connection t1="Blazewater Bay" t2="Flint's Finger"/>
+	<connection t1="Blazewater Bay" t2="Kraken Sound"/>
+	<connection t1="Blazewater Bay" t2="Port of Barrowtown"/>
+	<connection t1="Blazewater Bay" t2="The Stony Shore"/>
+	<connection t1="Blazewater Bay" t2="Very Cold Sea"/>
+	<connection t1="Bloodstone" t2="Bloodstone Strait"/>
+	<connection t1="Bloodstone" t2="South Narrow Sea"/>
+	<connection t1="Bloodstone Strait" t2="East Sea of Dorne"/>
+	<connection t1="Bloodstone Strait" t2="Mistwood"/>
+	<connection t1="Bloodstone Strait" t2="Rain House"/>
+	<connection t1="Bloodstone Strait" t2="South Narrow Sea"/>
+	<connection t1="Bloodstone Strait" t2="The Narrow Sea"/>
+	<connection t1="Bloodstone Strait" t2="Tyrosh"/>
+	<connection t1="Bloody Gate" t2="Mountains of the Moon"/>
+	<connection t1="Bloody Gate" t2="Redfort"/>
+	<connection t1="Bloody Gate" t2="Strongsong"/>
+	<connection t1="Braavos" t2="Longbow Rapids"/>
+	<connection t1="Braavos" t2="Waters of Braavos"/>
+	<connection t1="Bridge of Skulls" t2="Fist of the First Men"/>
+	<connection t1="Bridge of Skulls" t2="The Frostfangs"/>
+	<connection t1="Bridge of Skulls" t2="The Gift"/>
+	<connection t1="Bridge of Skulls" t2="The Wall"/>
+	<connection t1="Brightwater Keep" t2="Oldtown"/>
+	<connection t1="Brightwater Keep" t2="Port of the Reach"/>
+	<connection t1="Brightwater Keep" t2="The Reach"/>
+	<connection t1="Brimstone Waters" t2="East Summer Sea"/>
+	<connection t1="Brimstone Waters" t2="Hellholt"/>
+	<connection t1="Brimstone Waters" t2="North Summer Sea"/>
+	<connection t1="Brimstone Waters" t2="Redwyne Straits"/>
+	<connection t1="Brimstone Waters" t2="Sandstone"/>
+	<connection t1="Brimstone Waters" t2="Vaith"/>
+	<connection t1="Bronzegate" t2="Felwood"/>
+	<connection t1="Bronzegate" t2="Haystitch Hall"/>
+	<connection t1="Bronzegate" t2="Storms End"/>
+	<connection t1="Bronzegate" t2="The Crownlands"/>
+	<connection t1="Casterly Rock" t2="Kayce"/>
+	<connection t1="Casterly Rock" t2="Lannisport"/>
+	<connection t1="Casterly Rock" t2="Port of Lannisport"/>
+	<connection t1="Cedar Pass" t2="Isle of Cedars"/>
+	<connection t1="Cedar Pass" t2="Old Ghis"/>
+	<connection t1="Cedar Pass" t2="The Gulf of Grief"/>
+	<connection t1="Cedar Pass" t2="The Lands of the Long Summer"/>
+	<connection t1="Cedar Pass" t2="West Slavers Bay"/>
+	<connection t1="Cold Coast" t2="Colwater Burn"/>
+	<connection t1="Cold Coast" t2="Mountains of the Moon"/>
+	<connection t1="Cold Coast" t2="North Narrow Sea"/>
+	<connection t1="Cold Coast" t2="Port of White Harbor"/>
+	<connection t1="Cold Coast" t2="Strongsong"/>
+	<connection t1="Cold Coast" t2="The Bite"/>
+	<connection t1="Cold Coast" t2="The Dreadfort"/>
+	<connection t1="Cold Coast" t2="Three Sisters"/>
+	<connection t1="Cold Coast" t2="White Harbor"/>
+	<connection t1="Cold Coast" t2="Widows Watch"/>
+	<connection t1="Colwater Burn" t2="North Narrow Sea"/>
+	<connection t1="Colwater Burn" t2="Snakewood"/>
+	<connection t1="Colwater Burn" t2="Strongsong"/>
+	<connection t1="Cornfield" t2="Crakehall"/>
+	<connection t1="Cornfield" t2="Lannisport"/>
+	<connection t1="Cornfield" t2="Red Lake"/>
+	<connection t1="Cornfield" t2="Silverhall"/>
+	<connection t1="Crakehall" t2="Lannisport"/>
+	<connection t1="Crakehall" t2="Old Oak"/>
+	<connection t1="Crakehall" t2="Port of Lannisport"/>
+	<connection t1="Crakehall" t2="Red Lake"/>
+	<connection t1="Crakehall" t2="The Sunset Sea"/>
+	<connection t1="Craster's Keep" t2="Fist of the First Men"/>
+	<connection t1="Craster's Keep" t2="Hardhome"/>
+	<connection t1="Craster's Keep" t2="The Haunted Forest"/>
+	<connection t1="Craster's Keep" t2="The Wall"/>
+	<connection t1="Crows Nest" t2="East Sea of Dorne"/>
+	<connection t1="Crows Nest" t2="Griffins Roost"/>
+	<connection t1="Crows Nest" t2="Mistwood"/>
+	<connection t1="Crows Nest" t2="Rain House"/>
+	<connection t1="Crows Nest" t2="Shipbreaker Bay"/>
+	<connection t1="Crows Nest" t2="West Sea of Dorne"/>
+	<connection t1="Crows Nest" t2="Wyl"/>
+	<connection t1="Deep Den" t2="Hornvale"/>
+	<connection t1="Deep Den" t2="Lannisport"/>
+	<connection t1="Deep Den" t2="Sarsfield"/>
+	<connection t1="Deep Den" t2="Silverhall"/>
+	<connection t1="Deep Den" t2="Stoney Sept"/>
+	<connection t1="Deepwood Motte" t2="Sea Dragon"/>
+	<connection t1="Deepwood Motte" t2="The Stony Shore"/>
+	<connection t1="Deepwood Motte" t2="Winterfell"/>
+	<connection t1="Dothraki Highlands" t2="Dothraki Riverlands"/>
+	<connection t1="Dothraki Highlands" t2="Mother of Mountains"/>
+	<connection t1="Dothraki Highlands" t2="Northeast Shivering Sea"/>
+	<connection t1="Dothraki Highlands" t2="Southeast Shivering Sea"/>
+	<connection t1="Dothraki Riverlands" t2="Dothraki Sea"/>
+	<connection t1="Dothraki Riverlands" t2="Mother of Mountains"/>
+	<connection t1="Dothraki Riverlands" t2="Southeast Shivering Sea"/>
+	<connection t1="Dothraki Riverlands" t2="Vaes Dothrak"/>
+	<connection t1="Dothraki Sea" t2="Eastern Dothraki Sea"/>
+	<connection t1="Dothraki Sea" t2="Lhazar"/>
+	<connection t1="Dothraki Sea" t2="Southeast Shivering Sea"/>
+	<connection t1="Dothraki Sea" t2="Vaes Dothrak"/>
+	<connection t1="Dothraki Sea" t2="Western Dothraki Sea"/>
+	<connection t1="Dragonstone" t2="Strait of Tarth"/>
+	<connection t1="Dragonstone" t2="The Gullet"/>
+	<connection t1="Duskendale" t2="Rooks Rest"/>
+	<connection t1="Duskendale" t2="The Crownlands"/>
+	<connection t1="East Sea of Dorne" t2="Ghost Hall"/>
+	<connection t1="East Sea of Dorne" t2="Godsgrace"/>
+	<connection t1="East Sea of Dorne" t2="Mistwood"/>
+	<connection t1="East Sea of Dorne" t2="South Narrow Sea"/>
+	<connection t1="East Sea of Dorne" t2="West Sea of Dorne"/>
+	<connection t1="East Sea of Dorne" t2="Yronwood"/>
+	<connection t1="East Slavers Bay" t2="Port of Meereen"/>
+	<connection t1="East Slavers Bay" t2="Tolos"/>
+	<connection t1="East Slavers Bay" t2="West Slavers Bay"/>
+	<connection t1="East Slavers Bay" t2="Yunkai"/>
+	<connection t1="East Summer Sea" t2="North Summer Sea"/>
+	<connection t1="East Summer Sea" t2="Redwyne Straits"/>
+	<connection t1="East Summer Sea" t2="The Summer Sea"/>
+	<connection t1="Eastern Dothraki Sea" t2="Lhazar"/>
+	<connection t1="Eastern Dothraki Sea" t2="Vaes Dothrak"/>
+	<connection t1="Faircastle" t2="Faircastle Strait"/>
+	<connection t1="Faircastle" t2="Feastfires Sound"/>
+	<connection t1="Faircastle" t2="Gold Coast"/>
+	<connection t1="Faircastle" t2="North Sunset Sea"/>
+	<connection t1="Faircastle Strait" t2="Feastfires Sound"/>
+	<connection t1="Faircastle Strait" t2="Gold Coast"/>
+	<connection t1="Faircastle Strait" t2="Kayce"/>
+	<connection t1="Faircastle Strait" t2="Sarsfield"/>
+	<connection t1="Fairmarket" t2="Green Fork"/>
+	<connection t1="Fairmarket" t2="Ironmans Bay"/>
+	<connection t1="Fairmarket" t2="Lord Halloway's Town"/>
+	<connection t1="Fairmarket" t2="Riverlands"/>
+	<connection t1="Fairmarket" t2="Seagard"/>
+	<connection t1="Feastfires Sound" t2="Kayce"/>
+	<connection t1="Feastfires Sound" t2="North Sunset Sea"/>
+	<connection t1="Feastfires Sound" t2="Port of Lannisport"/>
+	<connection t1="Felwood" t2="Grassy Vale"/>
+	<connection t1="Felwood" t2="Griffins Roost"/>
+	<connection t1="Felwood" t2="Storms End"/>
+	<connection t1="Felwood" t2="The Crownlands"/>
+	<connection t1="Felwood" t2="Tumbleton"/>
+	<connection t1="Fist of the First Men" t2="The Frostfangs"/>
+	<connection t1="Fist of the First Men" t2="The Haunted Forest"/>
+	<connection t1="Fist of the First Men" t2="The Milkwater"/>
+	<connection t1="Fist of the First Men" t2="The Wall"/>
+	<connection t1="Flint's Finger" t2="Greywater Watch"/>
+	<connection t1="Flint's Finger" t2="Kraken Sound"/>
+	<connection t1="Flint's Finger" t2="North Neck Swamp"/>
+	<connection t1="Flint's Finger" t2="Port of Barrowtown"/>
+	<connection t1="Flint's Finger" t2="South Neck Swamps"/>
+	<connection t1="Ghiscari Strait" t2="New Ghis"/>
+	<connection t1="Ghiscari Strait" t2="Old Ghis"/>
+	<connection t1="Ghiscari Strait" t2="South Gulf of Grief"/>
+	<connection t1="Ghiscari Strait" t2="The Basilisk Isles"/>
+	<connection t1="Ghiscari Strait" t2="The Gulf of Grief"/>
+	<connection t1="Ghiscari Strait" t2="Yeen"/>
+	<connection t1="Ghost Hall" t2="Godsgrace"/>
+	<connection t1="Ghost Hall" t2="South Narrow Sea"/>
+	<connection t1="Ghost Hall" t2="Sunspear"/>
+	<connection t1="Ghost Hall" t2="Through of Lys"/>
+	<connection t1="Ghoyan Drohe" t2="Norvos"/>
+	<connection t1="Ghoyan Drohe" t2="Pentos"/>
+	<connection t1="Ghoyan Drohe" t2="The Flatlands"/>
+	<connection t1="Godsgrace" t2="Lemonwood"/>
+	<connection t1="Godsgrace" t2="North Summer Sea"/>
+	<connection t1="Godsgrace" t2="Sunspear"/>
+	<connection t1="Godsgrace" t2="Vaith"/>
+	<connection t1="Godsgrace" t2="Yronwood"/>
+	<connection t1="Gogossos" t2="Gogossos Bay"/>
+	<connection t1="Gogossos" t2="The Basilisk Isles"/>
+	<connection t1="Gogossos Bay" t2="The Basilisk Isles"/>
+	<connection t1="Gogossos Bay" t2="Yeen"/>
+	<connection t1="Gold Coast" t2="North Sunset Sea"/>
+	<connection t1="Gold Coast" t2="Pyke"/>
+	<connection t1="Gold Coast" t2="Pyke Strait"/>
+	<connection t1="Gold Coast" t2="The Crag"/>
+	<connection t1="Golden Grove" t2="Red Lake"/>
+	<connection t1="Golden Grove" t2="Silverhall"/>
+	<connection t1="Golden Grove" t2="The Reach"/>
+	<connection t1="Golden Tooth" t2="Hornvale"/>
+	<connection t1="Golden Tooth" t2="Riverlands"/>
+	<connection t1="Golden Tooth" t2="Sarsfield"/>
+	<connection t1="Grassy Vale" t2="Griffins Roost"/>
+	<connection t1="Grassy Vale" t2="The Reach"/>
+	<connection t1="Grassy Vale" t2="Tumbleton"/>
+	<connection t1="Grassy Vale" t2="Wyl"/>
+	<connection t1="Great Wyk" t2="Kraken Sound"/>
+	<connection t1="Great Wyk" t2="North Sunset Sea"/>
+	<connection t1="Great Wyk" t2="The Iron Islands"/>
+	<connection t1="Green Fork" t2="Lord Halloway's Town"/>
+	<connection t1="Green Fork" t2="Mountains of the Moon"/>
+	<connection t1="Green Fork" t2="Mouth of the Trident"/>
+	<connection t1="Green Fork" t2="Seagard"/>
+	<connection t1="Green Fork" t2="The Bite"/>
+	<connection t1="Greywater Watch" t2="North Neck Swamp"/>
+	<connection t1="Greywater Watch" t2="South Neck Swamps"/>
+	<connection t1="Griffins Roost" t2="Shipbreaker Bay"/>
+	<connection t1="Griffins Roost" t2="Storms End"/>
+	<connection t1="Griffins Roost" t2="Wyl"/>
+	<connection t1="Gulltown" t2="Bay of Crabs"/>
+	<connection t1="Gulltown" t2="Iron Oaks"/>
+	<connection t1="Gulltown" t2="Longbow Rapids"/>
+	<connection t1="Hardhome" t2="Northwest Shivering Sea"/>
+	<connection t1="Hardhome" t2="The Haunted Forest"/>
+	<connection t1="Hardhome" t2="The Wall"/>
+	<connection t1="Harlaw" t2="Ironmans Bay"/>
+	<connection t1="Harlaw" t2="Pyke Strait"/>
+	<connection t1="Harlaw" t2="The Iron Islands"/>
+	<connection t1="Harrenhall" t2="Lord Halloway's Town"/>
+	<connection t1="Harrenhall" t2="Mouth of the Trident"/>
+	<connection t1="Harrenhall" t2="Riverlands"/>
+	<connection t1="Harrenhall" t2="Stoney Sept"/>
+	<connection t1="Harrenhall" t2="The Crownlands"/>
+	<connection t1="Haystitch Hall" t2="Shipbreaker Bay"/>
+	<connection t1="Haystitch Hall" t2="Storms End"/>
+	<connection t1="Haystitch Hall" t2="Strait of Tarth"/>
+	<connection t1="Haystitch Hall" t2="The Crownlands"/>
+	<connection t1="Hearts Home" t2="Iron Oaks"/>
+	<connection t1="Hearts Home" t2="Longbow Hall"/>
+	<connection t1="Hearts Home" t2="North Narrow Sea"/>
+	<connection t1="Hearts Home" t2="Strongsong"/>
+	<connection t1="Hearts Home" t2="The Eyrie"/>
+	<connection t1="Hellholt" t2="Sandstone"/>
+	<connection t1="Hellholt" t2="Skyreach"/>
+	<connection t1="Hellholt" t2="Vaith"/>
+	<connection t1="Hellholt" t2="Yronwood"/>
+	<connection t1="Highgarden" t2="The Reach"/>
+	<connection t1="Hills of Norvos" t2="Lorath Bay"/>
+	<connection t1="Hills of Norvos" t2="Norvos"/>
+	<connection t1="Hills of Norvos" t2="South Shivering Sea"/>
+	<connection t1="Hills of Norvos" t2="The Ax"/>
+	<connection t1="Horn Hill" t2="Oldtown"/>
+	<connection t1="Horn Hill" t2="The Reach"/>
+	<connection t1="Hornvale" t2="Pinkmaiden"/>
+	<connection t1="Hornvale" t2="Sarsfield"/>
+	<connection t1="Hornvale" t2="Stoney Sept"/>
+	<connection t1="Hornwood" t2="The Dreadfort"/>
+	<connection t1="Hornwood" t2="White Harbor"/>
+	<connection t1="Hornwood" t2="Winterfell"/>
+	<connection t1="Ibben" t2="Ibben Passage"/>
+	<connection t1="Ibben" t2="Northeast Shivering Sea"/>
+	<connection t1="Ibben" t2="The Shivering Sea"/>
+	<connection t1="Ibben" t2="West Shivering Sea"/>
+	<connection t1="Ibben Passage" t2="Northeast Shivering Sea"/>
+	<connection t1="Ibben Passage" t2="West Shivering Sea"/>
+	<connection t1="Iron Oaks" t2="Bay of Crabs"/>
+	<connection t1="Iron Oaks" t2="Longbow Hall"/>
+	<connection t1="Iron Oaks" t2="Longbow Rapids"/>
+	<connection t1="Iron Oaks" t2="Redfort"/>
+	<connection t1="Iron Oaks" t2="The Eyrie"/>
+	<connection t1="Iron Oaks" t2="Wickenden"/>
+	<connection t1="Ironmans Bay" t2="Pyke Strait"/>
+	<connection t1="Ironmans Bay" t2="Riverlands"/>
+	<connection t1="Ironmans Bay" t2="Seagard"/>
+	<connection t1="Ironmans Bay" t2="South Neck Swamps"/>
+	<connection t1="Ironmans Bay" t2="The Twins"/>
+	<connection t1="Isle of Cedars" t2="West Slavers Bay"/>
+	<connection t1="Karhold" t2="Last Hearth"/>
+	<connection t1="Karhold" t2="The Dreadfort"/>
+	<connection t1="Karhold" t2="Weeping Bay"/>
+	<connection t1="Karhold" t2="West Shivering Sea"/>
+	<connection t1="Kayce" t2="Lannisport"/>
+	<connection t1="Kayce" t2="Port of Lannisport"/>
+	<connection t1="Kayce" t2="Sarsfield"/>
+	<connection t1="Kings Landing" t2="The Crownlands"/>
+	<connection t1="Kraken Sound" t2="North Sunset Sea"/>
+	<connection t1="Kraken Sound" t2="Orkmont"/>
+	<connection t1="Kraken Sound" t2="The Iron Islands"/>
+	<connection t1="Lannisport" t2="Port of Lannisport"/>
+	<connection t1="Lannisport" t2="Sarsfield"/>
+	<connection t1="Lannisport" t2="Silverhall"/>
+	<connection t1="Last Hearth" t2="The Dreadfort"/>
+	<connection t1="Last Hearth" t2="The Gift"/>
+	<connection t1="Last Hearth" t2="Winterfell"/>
+	<connection t1="Lemonwood" t2="North Summer Sea"/>
+	<connection t1="Lemonwood" t2="Sunspear"/>
+	<connection t1="Lemonwood" t2="Through of Lys"/>
+	<connection t1="Lhazar" t2="North Khyzai Pass"/>
+	<connection t1="Lhazar" t2="Qohor"/>
+	<connection t1="Lhazar" t2="The Red Waste"/>
+	<connection t1="Lhazar" t2="The Red Wastes"/>
+	<connection t1="Longbow Hall" t2="Longbow Rapids"/>
+	<connection t1="Longbow Hall" t2="North Narrow Sea"/>
+	<connection t1="Longbow Rapids" t2="North Narrow Sea"/>
+	<connection t1="Longbow Rapids" t2="Waters of Braavos"/>
+	<connection t1="Lorath" t2="Lorath Bay"/>
+	<connection t1="Lorath" t2="South Shivering Sea"/>
+	<connection t1="Lorath Bay" t2="Norvos"/>
+	<connection t1="Lorath Bay" t2="South Shivering Sea"/>
+	<connection t1="Lord Halloway's Town" t2="Mouth of the Trident"/>
+	<connection t1="Lord Halloway's Town" t2="Riverlands"/>
+	<connection t1="Lys" t2="South Narrow Sea"/>
+	<connection t1="Lys" t2="The Orange Waters"/>
+	<connection t1="Lys" t2="Through of Lys"/>
+	<connection t1="Maidenpool" t2="Mouth of the Trident"/>
+	<connection t1="Maidenpool" t2="Rooks Rest"/>
+	<connection t1="Maidenpool" t2="Trident Bay"/>
+	<connection t1="Mantarys" t2="Midlands Road"/>
+	<connection t1="Mantarys" t2="The Lands of the Long Summer"/>
+	<connection t1="Mantarys" t2="The Red Waste"/>
+	<connection t1="Mantarys" t2="Tolos"/>
+	<connection t1="Mantarys" t2="Volantis"/>
+	<connection t1="Meereen" t2="Port of Meereen"/>
+	<connection t1="Meereen" t2="The Red Wastes"/>
+	<connection t1="Meereen" t2="Yunkai"/>
+	<connection t1="Midlands Road" t2="Qohor"/>
+	<connection t1="Midlands Road" t2="The Golden Fields"/>
+	<connection t1="Midlands Road" t2="The Red Waste"/>
+	<connection t1="Midlands Road" t2="Volaena Marsh"/>
+	<connection t1="Midlands Road" t2="Volantis"/>
+	<connection t1="Mistwood" t2="Rain House"/>
+	<connection t1="Moat Cailin" t2="North Neck Swamp"/>
+	<connection t1="Moat Cailin" t2="Port of White Harbor"/>
+	<connection t1="Moat Cailin" t2="White Harbor"/>
+	<connection t1="Mother of Mountains" t2="Vaes Dothrak"/>
+	<connection t1="Mountains of the Moon" t2="Mouth of the Trident"/>
+	<connection t1="Mountains of the Moon" t2="Redfort"/>
+	<connection t1="Mountains of the Moon" t2="Saltpans"/>
+	<connection t1="Mountains of the Moon" t2="Strongsong"/>
+	<connection t1="Mountains of the Moon" t2="The Bite"/>
+	<connection t1="Mountains of the Moon" t2="Wickenden"/>
+	<connection t1="Mouth of the Trident" t2="Saltpans"/>
+	<connection t1="Myr" t2="Sea of Myrth"/>
+	<connection t1="Myr" t2="The Disputed Lands"/>
+	<connection t1="Myr" t2="The Flatlands"/>
+	<connection t1="Naath" t2="Shallows of Naath"/>
+	<connection t1="Naath" t2="Western Summer Sea"/>
+	<connection t1="New Ghis" t2="The Gulf of Grief"/>
+	<connection t1="Nightsong" t2="Red Mountains"/>
+	<connection t1="Nightsong" t2="The Reach"/>
+	<connection t1="Nightsong" t2="Wyl"/>
+	<connection t1="North Khyzai Pass" t2="South Khyzai Pass"/>
+	<connection t1="North Khyzai Pass" t2="The Red Waste"/>
+	<connection t1="North Khyzai Pass" t2="The Red Wastes"/>
+	<connection t1="North Narrow Sea" t2="Snakewood"/>
+	<connection t1="North Narrow Sea" t2="The Shivering Sea"/>
+	<connection t1="North Narrow Sea" t2="Waters of Braavos"/>
+	<connection t1="North Narrow Sea" t2="Weeping Bay"/>
+	<connection t1="North Narrow Sea" t2="West Shivering Sea"/>
+	<connection t1="North Narrow Sea" t2="Widows Watch"/>
+	<connection t1="North Neck Swamp" t2="Port of Barrowtown"/>
+	<connection t1="North Neck Swamp" t2="Port of White Harbor"/>
+	<connection t1="North Neck Swamp" t2="South Neck Swamps"/>
+	<connection t1="North Neck Swamp" t2="The Bite"/>
+	<connection t1="North Summer Sea" t2="The Orange Waters"/>
+	<connection t1="North Summer Sea" t2="The Summer Sea"/>
+	<connection t1="North Summer Sea" t2="Through of Lys"/>
+	<connection t1="North Summer Sea" t2="Vaith"/>
+	<connection t1="North Sunset Sea" t2="Pyke"/>
+	<connection t1="North Sunset Sea" t2="The Iron Islands"/>
+	<connection t1="Northeast Shivering Sea" t2="Southeast Shivering Sea"/>
+	<connection t1="Northeast Shivering Sea" t2="The Shivering Sea"/>
+	<connection t1="Northeast Summer Sea" t2="South Smoking Sea"/>
+	<connection t1="Northeast Summer Sea" t2="The Lands of the Long Summer"/>
+	<connection t1="Northeast Summer Sea" t2="The Orange Waters"/>
+	<connection t1="Northeast Summer Sea" t2="The Smoking Sea"/>
+	<connection t1="Northeast Summer Sea" t2="Volantis"/>
+	<connection t1="Northeast Summer Sea" t2="Western Summer Sea"/>
+	<connection t1="Northwest Shivering Sea" t2="Ibben Passage"/>
+	<connection t1="Northwest Shivering Sea" t2="Skagos"/>
+	<connection t1="Northwest Shivering Sea" t2="The Haunted Sea"/>
+	<connection t1="Northwest Shivering Sea" t2="West Shivering Sea"/>
+	<connection t1="Norvos" t2="Ny Sar"/>
+	<connection t1="Norvos" t2="Pentos"/>
+	<connection t1="Norvos" t2="Qohor"/>
+	<connection t1="Norvos" t2="The Ax"/>
+	<connection t1="Norvos" t2="The Flatlands"/>
+	<connection t1="Norvos" t2="The Golden Fields"/>
+	<connection t1="Ny Sar" t2="The Flatlands"/>
+	<connection t1="Ny Sar" t2="The Golden Fields"/>
+	<connection t1="Old Ghis" t2="The Gulf of Grief"/>
+	<connection t1="Old Oak" t2="Port of the Reach"/>
+	<connection t1="Old Oak" t2="Red Lake"/>
+	<connection t1="Old Oak" t2="The Reach"/>
+	<connection t1="Old Oak" t2="The Sunset Sea"/>
+	<connection t1="Oldtown" t2="Blackcrown"/>
+	<connection t1="Oldtown" t2="Starfall"/>
+	<connection t1="Oldtown" t2="Sunhouse"/>
+	<connection t1="Oldtown" t2="The Reach"/>
+	<connection t1="Oldtown" t2="Three Towers"/>
+	<connection t1="Orkmont" t2="The Iron Islands"/>
+	<connection t1="Oros" t2="South Gulf of Grief"/>
+	<connection t1="Oros" t2="The Gulf of Grief"/>
+	<connection t1="Oros" t2="The Smoking Sea"/>
+	<connection t1="Pentos" t2="Strait of Tarth"/>
+	<connection t1="Pentos" t2="The Flatlands"/>
+	<connection t1="Pentos" t2="The Gullet"/>
+	<connection t1="Pentos" t2="The Narrow Sea"/>
+	<connection t1="Pinkmaiden" t2="Riverlands"/>
+	<connection t1="Pinkmaiden" t2="Stoney Sept"/>
+	<connection t1="Port of Barrowtown" t2="Moat Cailin"/>
+	<connection t1="Port of Kings Landing" t2="Kings Landing"/>
+	<connection t1="Port of Kings Landing" t2="The Crownlands"/>
+	<connection t1="Port of Lannisport" t2="The Sunset Sea"/>
+	<connection t1="Port of Meereen" t2="Yunkai"/>
+	<connection t1="Port of Oldtown" t2="Oldtown"/>
+	<connection t1="Port of Oldtown" t2="South Sunset Sea"/>
+	<connection t1="Port of White Harbor" t2="The Bite"/>
+	<connection t1="Port of White Harbor" t2="Three Sisters"/>
+	<connection t1="Port of White Harbor" t2="White Harbor"/>
+	<connection t1="Port of the Reach" t2="The Reach"/>
+	<connection t1="Port of the Reach" t2="The Sunset Sea"/>
+	<connection t1="Pyke" t2="Pyke Strait"/>
+	<connection t1="Pyke" t2="The Iron Islands"/>
+	<connection t1="Pyke Strait" t2="The Iron Islands"/>
+	<connection t1="Qohor" t2="The Ax"/>
+	<connection t1="Qohor" t2="The Frozen Stump"/>
+	<connection t1="Qohor" t2="The Golden Fields"/>
+	<connection t1="Qohor" t2="The Red Waste"/>
+	<connection t1="Qohor" t2="Western Dothraki Sea"/>
+	<connection t1="Rain House" t2="Shipbreaker Bay"/>
+	<connection t1="Rain House" t2="The Narrow Sea"/>
+	<connection t1="Red Lake" t2="Silverhall"/>
+	<connection t1="Red Lake" t2="The Reach"/>
+	<connection t1="Red Mountains" t2="Skyreach"/>
+	<connection t1="Red Mountains" t2="Wyl"/>
+	<connection t1="Red Mountains" t2="Yronwood"/>
+	<connection t1="Redfort" t2="The Eyrie"/>
+	<connection t1="Redfort" t2="Wickenden"/>
+	<connection t1="Redwyne Straits" t2="Sandstone"/>
+	<connection t1="Redwyne Straits" t2="South Sunset Sea"/>
+	<connection t1="Redwyne Straits" t2="Starfall"/>
+	<connection t1="Redwyne Straits" t2="Sunhouse"/>
+	<connection t1="Redwyne Straits" t2="The Arbor"/>
+	<connection t1="Riverrun" t2="Riverlands"/>
+	<connection t1="Rooks Rest" t2="The Gullet"/>
+	<connection t1="Saltpans" t2="Trident Bay"/>
+	<connection t1="Saltpans" t2="Wickenden"/>
+	<connection t1="Sandstone" t2="Skyreach"/>
+	<connection t1="Sandstone" t2="Starfall"/>
+	<connection t1="Sea Dragon" t2="The Frozen Shore"/>
+	<connection t1="Sea Dragon" t2="The Stony Shore"/>
+	<connection t1="Sea Dragon" t2="Very Cold Sea"/>
+	<connection t1="Sea of Myrth" t2="South Narrow Sea"/>
+	<connection t1="Sea of Myrth" t2="The Disputed Lands"/>
+	<connection t1="Sea of Myrth" t2="The Flatlands"/>
+	<connection t1="Sea of Myrth" t2="The Narrow Sea"/>
+	<connection t1="Sea of Myrth" t2="Tyrosh"/>
+	<connection t1="Selhoru Marsh" t2="Midlands Road"/>
+	<connection t1="Selhoru Marsh" t2="The Golden Fields"/>
+	<connection t1="Selhoru Marsh" t2="Volaena Marsh"/>
+	<connection t1="Selhoru Marsh" t2="Volantis"/>
+	<connection t1="Shallows of Naath" t2="South Gulf of Grief"/>
+	<connection t1="Shallows of Naath" t2="South Smoking Sea"/>
+	<connection t1="Shallows of Naath" t2="The Basilisk Isles"/>
+	<connection t1="Shallows of Naath" t2="Yeen"/>
+	<connection t1="Shipbreaker Bay" t2="Storms End"/>
+	<connection t1="Shipbreaker Bay" t2="Strait of Tarth"/>
+	<connection t1="Shipbreaker Bay" t2="Tarth"/>
+	<connection t1="Shipbreaker Bay" t2="The Narrow Sea"/>
+	<connection t1="Silverhall" t2="Stoney Sept"/>
+	<connection t1="Silverhall" t2="The Gold Road"/>
+	<connection t1="Skagos" t2="West Shivering Sea"/>
+	<connection t1="Skyreach" t2="Starfall"/>
+	<connection t1="Skyreach" t2="Yronwood"/>
+	<connection t1="Snakewood" t2="Hearts Home"/>
+	<connection t1="Snakewood" t2="Strongsong"/>
+	<connection t1="South Gulf of Grief" t2="South Smoking Sea"/>
+	<connection t1="South Gulf of Grief" t2="The Basilisk Isles"/>
+	<connection t1="South Gulf of Grief" t2="The Gulf of Grief"/>
+	<connection t1="South Gulf of Grief" t2="The Smoking Sea"/>
+	<connection t1="South Gulf of Grief" t2="Valyria"/>
+	<connection t1="South Khyzai Pass" t2="The Red Waste"/>
+	<connection t1="South Khyzai Pass" t2="The Red Wastes"/>
+	<connection t1="South Narrow Sea" t2="The Orange Shore"/>
+	<connection t1="South Narrow Sea" t2="The Orange Waters"/>
+	<connection t1="South Narrow Sea" t2="Through of Lys"/>
+	<connection t1="South Narrow Sea" t2="Tyrosh"/>
+	<connection t1="South Neck Swamps" t2="The Bite"/>
+	<connection t1="South Neck Swamps" t2="The Twins"/>
+	<connection t1="South Shivering Sea" t2="The Ax"/>
+	<connection t1="South Shivering Sea" t2="The Frozen Stump"/>
+	<connection t1="South Shivering Sea" t2="The Shivering Sea"/>
+	<connection t1="South Shivering Sea" t2="Waters of Braavos"/>
+	<connection t1="South Smoking Sea" t2="The Smoking Sea"/>
+	<connection t1="South Smoking Sea" t2="Tyria"/>
+	<connection t1="South Smoking Sea" t2="Valyria"/>
+	<connection t1="South Smoking Sea" t2="Western Summer Sea"/>
+	<connection t1="South Sunset Sea" t2="Sunhouse"/>
+	<connection t1="South Sunset Sea" t2="The Arbor"/>
+	<connection t1="South Sunset Sea" t2="Three Towers"/>
+	<connection t1="Southeast Shivering Sea" t2="The Frozen Stump"/>
+	<connection t1="Southeast Shivering Sea" t2="The Shivering Sea"/>
+	<connection t1="Southeast Shivering Sea" t2="Western Dothraki Sea"/>
+	<connection t1="Starfall" t2="Sunhouse"/>
+	<connection t1="Stoney Sept" t2="The Crownlands"/>
+	<connection t1="Stoney Sept" t2="The Gold Road"/>
+	<connection t1="Strait of Tarth" t2="Tarth"/>
+	<connection t1="Strait of Tarth" t2="The Gullet"/>
+	<connection t1="Strait of Tarth" t2="The Narrow Sea"/>
+	<connection t1="Strongsong" t2="The Eyrie"/>
+	<connection t1="Sunhouse" t2="Three Towers"/>
+	<connection t1="Sunspear" t2="Through of Lys"/>
+	<connection t1="Tarth" t2="The Narrow Sea"/>
+	<connection t1="The Ax" t2="The Frozen Stump"/>
+	<connection t1="The Basilisk Isles" t2="Yeen"/>
+	<connection t1="The Bite" t2="The Twins"/>
+	<connection t1="The Crownlands" t2="The Gold Road"/>
+	<connection t1="The Crownlands" t2="Tumbleton"/>
+	<connection t1="The Disputed Lands" t2="South Narrow Sea"/>
+	<connection t1="The Disputed Lands" t2="The Flatlands"/>
+	<connection t1="The Disputed Lands" t2="The Golden Fields"/>
+	<connection t1="The Disputed Lands" t2="The Orange Shore"/>
+	<connection t1="The Disputed Lands" t2="Volantis"/>
+	<connection t1="The Dreadfort" t2="Weeping Bay"/>
+	<connection t1="The Dreadfort" t2="White Harbor"/>
+	<connection t1="The Dreadfort" t2="Widows Watch"/>
+	<connection t1="The Dreadfort" t2="Winterfell"/>
+	<connection t1="The Eyrie" t2="Bloody Gate"/>
+	<connection t1="The Flatlands" t2="The Golden Fields"/>
+	<connection t1="The Flatlands" t2="The Narrow Sea"/>
+	<connection t1="The Frostfangs" t2="The Frozen Shore"/>
+	<connection t1="The Frostfangs" t2="The Milkwater"/>
+	<connection t1="The Frozen Stump" t2="The Shivering Sea"/>
+	<connection t1="The Frozen Stump" t2="Western Dothraki Sea"/>
+	<connection t1="The Gift" t2="The Wall"/>
+	<connection t1="The Gold Road" t2="Tumbleton"/>
+	<connection t1="The Golden Fields" t2="Volantis"/>
+	<connection t1="The Gulf of Grief" t2="The Lands of the Long Summer"/>
+	<connection t1="The Gulf of Grief" t2="The Smoking Sea"/>
+	<connection t1="The Haunted Forest" t2="The Haunted Sea"/>
+	<connection t1="The Haunted Forest" t2="The Milkwater"/>
+	<connection t1="The Haunted Sea" t2="Hardhome"/>
+	<connection t1="The Lands of the Long Summer" t2="The Smoking Sea"/>
+	<connection t1="The Lands of the Long Summer" t2="Tolos"/>
+	<connection t1="The Lands of the Long Summer" t2="Volantis"/>
+	<connection t1="The Lands of the Long Summer" t2="West Slavers Bay"/>
+	<connection t1="The Narrow Sea" t2="Tyrosh"/>
+	<connection t1="The Orange Shore" t2="Northeast Summer Sea"/>
+	<connection t1="The Orange Shore" t2="The Orange Waters"/>
+	<connection t1="The Orange Shore" t2="Volantis"/>
+	<connection t1="The Orange Waters" t2="The Summer Sea"/>
+	<connection t1="The Orange Waters" t2="Through of Lys"/>
+	<connection t1="The Orange Waters" t2="Western Summer Sea"/>
+	<connection t1="The Reach" t2="Wyl"/>
+	<connection t1="The Red Waste" t2="Tolos"/>
+	<connection t1="The Shivering Sea" t2="Waters of Braavos"/>
+	<connection t1="The Shivering Sea" t2="West Shivering Sea"/>
+	<connection t1="The Smoking Sea" t2="Valyria"/>
+	<connection t1="The Stony Shore" t2="Torrhens Square"/>
+	<connection t1="The Stony Shore" t2="Very Cold Sea"/>
+	<connection t1="The Stony Shore" t2="Winterfell"/>
+	<connection t1="The Summer Sea" t2="Western Summer Sea"/>
+	<connection t1="Three Sisters" t2="The Bite"/>
+	<connection t1="Three Towers" t2="Port of Oldtown"/>
+	<connection t1="Tolos" t2="West Slavers Bay"/>
+	<connection t1="Torrhens Square" t2="White Harbor"/>
+	<connection t1="Torrhens Square" t2="Winterfell"/>
+	<connection t1="Trident Bay" t2="Rooks Rest"/>
+	<connection t1="Trident Bay" t2="Wickenden"/>
+	<connection t1="Tyria" t2="The Smoking Sea"/>
+	<connection t1="Vaith" t2="Yronwood"/>
+	<connection t1="Volaena Marsh" t2="Volantis"/>
+	<connection t1="Weeping Bay" t2="West Shivering Sea"/>
+	<connection t1="Weeping Bay" t2="Widows Watch"/>
+	<connection t1="West Sea of Dorne" t2="Wyl"/>
+	<connection t1="West Sea of Dorne" t2="Yronwood"/>
+	<connection t1="Western Dothraki Sea" t2="Lhazar"/>
+	<connection t1="Western Summer Sea" t2="Shallows of Naath"/>
+	<connection t1="White Harbor" t2="Winterfell"/>
+	<connection t1="Wyl" t2="Yronwood"/>
   </map>
   <resourceList>
     <resource name="techTokens"/>
